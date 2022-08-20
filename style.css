@@ -1,13 +1,13 @@
 * {
   margin: 0;
   padding: 0;
+  overflow: hidden;
   box-sizing: border-box;
 }
 
 .container {
   width: 100vw;
   height: 100vh;
-  overflow: hidden;
   background-color: #101010;
   display: flex;
   justify-content: center;
